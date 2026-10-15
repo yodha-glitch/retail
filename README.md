@@ -1,12 +1,15 @@
 # E-Commerce Data Engineering
 
 ## Datasets
-- Olist Brazilian E-Commerce
-- UCI Online Retail II
 
-## Folder Structure
-- data/olist/
-- data/online_retail_ii/
+- Olist Brazilian E-Commerce Dataset
+- UCI Online Retail II Dataset
 
-## Objective
-Prepare datasets for Microsoft Fabric data engineering workflows.
+## Project Structure
+
+- data/olist/ - Olist CSV tables
+- data/online_retail_ii/ - Online Retail II source files
+
+## Purpose
+
+Data engineering practice using Microsoft Fabric.
